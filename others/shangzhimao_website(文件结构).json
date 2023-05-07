@@ -1,0 +1,283 @@
+{
+    "root": {
+        "data": {
+            "id": "crc6cgnmhlc0",
+            "created": 1679413346755,
+            "text": "shangzhimao_website(文件结构)",
+            "note": "已将HugoHero内容复制覆盖原文件结构",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "crc6co29yy00",
+                    "created": 1679413362878,
+                    "text": "archetypes",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "crc6f29aemw0",
+                            "created": 1679413550506,
+                            "text": "default.md",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "crc6pmsfhbs0",
+                                    "created": 1679414378840,
+                                    "text": "不需要修改"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "crc6f7a38680",
+                            "created": 1679413561438,
+                            "text": "services.md",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "crc6ppimybc0",
+                                    "created": 1679414384778,
+                                    "text": "内容模板，后期可以删掉"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "crc6fa389wg0",
+                            "created": 1679413567553,
+                            "text": "work.md",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "crc6q1d41d40",
+                                    "created": 1679414410566,
+                                    "text": "同上"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "crc6dh07lvk0",
+                    "created": 1679413425880,
+                    "text": "centent",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "crc6ffubwuw0",
+                            "created": 1679413580076,
+                            "text": "404",
+                            "note": "需要修改",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6fk8li5c0",
+                            "created": 1679413589646,
+                            "text": "contact",
+                            "note": "需要修改内容",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6fmidoko0",
+                            "created": 1679413594591,
+                            "text": "homepage",
+                            "note": "分别渲染为网站首页由上至下的几个板块，内容需要修改",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6fpm1fc80",
+                            "created": 1679413601343,
+                            "text": "pages",
+                            "note": "需要修改内容",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6fqu80ew0",
+                            "created": 1679413604014,
+                            "text": "services",
+                            "note": "内容需要大幅修改",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6fsq44rs0",
+                            "created": 1679413608119,
+                            "text": "work",
+                            "note": "同services",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6ftuzmfk0",
+                            "created": 1679413610591,
+                            "text": "_index.md",
+                            "note": "首页最上的内容，需要修改",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "crc6dpdbkps0",
+                    "created": 1679413444087,
+                    "text": "data",
+                    "note": "存放有引入变量的数据文件，根据需要增加或修改",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "crc6dqmb60g0",
+                    "created": 1679413446807,
+                    "text": "layouts",
+                    "note": null,
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "crc6itlgs1c0",
+                            "created": 1679413845107,
+                            "text": "_default",
+                            "note": "主要框架，基本不需要修改",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6ixqnecw0",
+                            "created": 1679413854128,
+                            "text": "404",
+                            "note": "需要修改为合适的404文件",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6iz3hmcg0",
+                            "created": 1679413857081,
+                            "text": "contact",
+                            "note": "需要重构页面",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "crc6jazmq7s0",
+                            "created": 1679413882969,
+                            "text": "partials",
+                            "note": "部分内容需要修改，例如footer、header站点信息等等",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "crc6dt3mkd40",
+                    "created": 1679413452208,
+                    "text": "resources",
+                    "note": "不需要改动",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "crc6dvw10aw0",
+                    "created": 1679413458279,
+                    "text": "static",
+                    "note": "主题预设将各主页单独区分存放\n不需要改动",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "crc6dxprfyo0",
+                    "created": 1679413462254,
+                    "text": "themes",
+                    "note": "不需要改动",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "crc6e0p8lz40",
+                    "created": 1679413468752,
+                    "text": "config.toml",
+                    "note": "网站配置文件，将基本信息简单配置即可",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.33"
+}
